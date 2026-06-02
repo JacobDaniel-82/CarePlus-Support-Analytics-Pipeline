@@ -218,11 +218,7 @@ Each folder contains its own README with implementation details and setup instru
 
 ## Architecture & Design Documents
 
-Detailed diagrams are available in:
-
-```text
-architecture/
-```
+Detailed diagrams are available in: [architecture](architecture/)
 
 Including:
 
@@ -234,11 +230,7 @@ Including:
 
 ## Screenshots
 
-Project screenshots are available in:
-
-```text
-screenshots/
-```
+Project screenshots are available in: [screenshots](screenshots/)
 
 Including:
 
@@ -254,6 +246,8 @@ Including:
 ---
 
 ## Dashboard
+
+![PBI dashboard](analytics/Careplus_Insights.pdf)
 
 The final reporting layer is built using Power BI and connected directly to Amazon Redshift.
 
